@@ -33,6 +33,8 @@ const Starwars = () => {
                 <h1>SWAPI</h1>
                 <p>The Starwars Api </p>
 
+
+
                 {/* <div className='tab'>
                     <ul>
                         <li className='card'>
